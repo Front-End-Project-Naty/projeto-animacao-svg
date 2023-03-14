@@ -2,11 +2,11 @@
   <defs>
     <style>
       #nuvem-1 {
-        animation: movimento-nuvem-esq 60s ease-in-out infinite alternate;
+        animation: movimento-nuvem-esq 40s ease-in-out infinite alternate;
       }
 
       #nuvem-2 {
-        animation: movimento-nuvem-dir 60s ease-in-out infinite alternate;
+        animation: movimento-nuvem-dir 40s ease-in-out infinite alternate;
       }
 
       @keyframes movimento-nuvem-esq {
